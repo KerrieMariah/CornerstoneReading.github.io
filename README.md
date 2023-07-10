@@ -14,20 +14,20 @@ A few reference links:
 
 ### The list in a rough draft form:
 
-The Bible
-The Iliad and The Odyssey
+* The Bible
+* The Iliad and The Odyssey
 
-Ajax
-Antigone
-Electra
-Philoctetes
-The Trachiniae
-The Oedipus Trilogy
+* Ajax
+* Antigone
+* Electra
+* Philoctetes
+* The Trachiniae
+* The Oedipus Trilogy
 
-The History
+* The History
 plays, including:
 
-Alcestis
+* Alcestis
 Andromache
 The Bacchantes
 The Cyclops
